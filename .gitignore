@@ -1,3 +1,4 @@
+# Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
 # Ignore .env files so API keys are hidden
