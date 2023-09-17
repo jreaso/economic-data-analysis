@@ -1,6 +1,6 @@
 # Economic Data Analysis - FRED API
 
-Basic analysis of economic indicators and stock prices. We use the **FRED** (Federal Reserve Economic Data) API with `fredapi` wrapper along with Yahoo finance `yfinance` python package.
+Analysis of US economic indicators and stock prices. We use the **FRED** (Federal Reserve Economic Data) API with `fredapi` wrapper along with Yahoo finance `yfinance` python package.
 
 This project contains a notebook `analysis.ipynb` with all the analysis. The analysis explore economic indicators available with the FRED API and includes:
 - Plotting various historical economic indicators.
