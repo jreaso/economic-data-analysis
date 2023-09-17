@@ -3,3 +3,6 @@
 
 # Ignore .env files so API keys are hidden
 .env
+
+# Ignore mac local files
+**/.DS_Store
